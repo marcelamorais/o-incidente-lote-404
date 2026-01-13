@@ -1,0 +1,65 @@
+[
+  {
+    "nome": "Soda Cáustica",
+    "nivel": "22%",
+    "st": "CRÍTICO",
+    "cor": "red",
+    "historico": [
+      {
+        "data": "2025-07-01",
+        "pct": 95
+      },
+      {
+        "data": "2025-08-01",
+        "pct": 80
+      },
+      {
+        "data": "2025-09-01",
+        "pct": 65
+      },
+      {
+        "data": "2025-10-01",
+        "pct": 50
+      },
+      {
+        "data": "2025-11-01",
+        "pct": 35
+      },
+      {
+        "data": "2025-12-01",
+        "pct": 28
+      },
+      {
+        "data": "2026-01-10",
+        "pct": 22
+      }
+    ]
+  },
+  {
+    "nome": "Resina Imp.",
+    "nivel": "10%",
+    "st": "CRÍTICO",
+    "cor": "red",
+    "historico": [
+      {
+        "data": "2025-07-01",
+        "pct": 90
+      },
+      {
+        "data": "2025-12-01",
+        "pct": 30
+      },
+      {
+        "data": "2026-01-10",
+        "pct": 10
+      }
+    ]
+  },
+  {
+    "nome": "Madeira",
+    "nivel": "12.500 m³",
+    "st": "Normal",
+    "cor": "green",
+    "historico": []
+  }
+]

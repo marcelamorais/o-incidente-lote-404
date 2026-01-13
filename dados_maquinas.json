@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nome": "MP-01: Picador",
+    "setor": "Pátio",
+    "status": "ok",
+    "gps": "RJ",
+    "dados": [
+      {
+        "k": "RPM",
+        "v": "1200"
+      }
+    ],
+    "alerta": null,
+    "historico": [
+      {
+        "data": "2025-07-01",
+        "producao": 450,
+        "temp": 65,
+        "status": "Normal"
+      },
+      {
+        "data": "2025-09-10",
+        "producao": 460,
+        "temp": 68,
+        "status": "Normal"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "MP-02: Digestor",
+    "setor": "Químico",
+    "status": "warn",
+    "gps": "SC",
+    "dados": [
+      {
+        "k": "Pressão",
+        "v": "8.8 bar"
+      }
+    ],
+    "alerta": "Pressão Crítica",
+    "historico": [
+      {
+        "data": "2025-07-01",
+        "producao": 320,
+        "temp": 160,
+        "status": "Normal"
+      },
+      {
+        "data": "2025-08-15",
+        "producao": 315,
+        "temp": 162,
+        "status": "Normal"
+      },
+      {
+        "data": "2025-09-10",
+        "producao": 330,
+        "temp": 165,
+        "status": "Atenção"
+      },
+      {
+        "data": "2025-11-20",
+        "producao": 340,
+        "temp": 170,
+        "status": "Atenção"
+      },
+      {
+        "data": "2025-12-01",
+        "producao": 350,
+        "temp": 172,
+        "status": "Atenção"
+      },
+      {
+        "data": "2025-12-15",
+        "producao": 355,
+        "temp": 174,
+        "status": "Crítico"
+      },
+      {
+        "data": "2026-01-10",
+        "producao": 100,
+        "temp": 175,
+        "status": "FALHA"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "MP-03: Secagem",
+    "setor": "Acabamento",
+    "status": "ok",
+    "gps": "BA",
+    "dados": [
+      {
+        "k": "Velocidade",
+        "v": "1100"
+      }
+    ],
+    "alerta": null,
+    "historico": [
+      {
+        "data": "2025-10-05",
+        "producao": 300,
+        "temp": 90,
+        "status": "Normal"
+      }
+    ]
+  }
+]
